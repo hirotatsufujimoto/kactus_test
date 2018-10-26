@@ -1,7 +1,14 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "FF4A9198-FFCC-4F15-8EF6-29789348DF4B",
+  "do_objectID": "82FA6F26-4CAA-40E4-8FB5-9913861E7E90",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +21,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 320,
+    "width": 238,
+    "x": 1171,
+    "y": 227
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,29 +34,28 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "6EA91597-AE59-4A93-95C1-7F7994780EFF"
-    },
-    {
-      "class": "artboard",
-      "id": "82FA6F26-4CAA-40E4-8FB5-9913861E7E90"
+      "class": "shapeGroup",
+      "id": "7BE02817-1949-45D3-A144-9F390D4AED16"
     }
   ],
-  "name": "Page 1",
+  "name": "Artboard 2",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
